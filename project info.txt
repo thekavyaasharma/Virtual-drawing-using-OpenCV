@@ -1,0 +1,5 @@
+live webcam drawing using opencv : use object tracking method to draw anything in mid air using OpenCV 
+
+this program takes te video input from the webcam and track the object we are moving 
+-> after identifying the object , it will make contours precisely 
+-> then it will paint all your drawing in the output screen 
