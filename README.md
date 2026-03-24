@@ -4,13 +4,13 @@ A real-time virtual drawing application built using **OpenCV** and **Python** th
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project uses computer vision techniques to track a colored object (marker) and enables users to draw on a virtual canvas in real time. The system detects the object based on **HSV color segmentation**, tracks its movement, and renders drawing strokes live on screen.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🎥 Real-time webcam-based drawing
 - 🎯 Color detection using HSV color space
@@ -25,7 +25,7 @@ This project uses computer vision techniques to track a colored object (marker) 
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Webcam captures live video frames
 2. Frames are converted from **BGR → HSV** color space
@@ -40,7 +40,7 @@ This project uses computer vision techniques to track a colored object (marker) 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Details |
 |-----------|---------|
@@ -51,7 +51,7 @@ This project uses computer vision techniques to track a colored object (marker) 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Virtual-Drawing-OpenCV/
@@ -62,7 +62,7 @@ Virtual-Drawing-OpenCV/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
@@ -85,7 +85,7 @@ python air_canvas.py
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Action | Description |
 |--------|-------------|
@@ -96,7 +96,7 @@ python air_canvas.py
 
 ---
 
-## 🎯 HSV Trackbars
+##  HSV Trackbars
 
 The application provides interactive trackbars to adjust:
 
