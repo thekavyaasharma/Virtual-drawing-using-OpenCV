@@ -1,4 +1,4 @@
-# 🎨 Virtual Drawing Using OpenCV
+# AIR CANVAS : A VIRTUAL DRAWING APP
 
 A real-time virtual drawing application built using **OpenCV** and **Python** that allows users to draw on screen using a colored object captured via webcam — no physical surface needed.
 
